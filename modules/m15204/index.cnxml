@@ -1,0 +1,200 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Aldol Condensation</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>04f682cf-6e60-4db6-9d49-f1cdab7375f0</md:uuid>
+</metadata>
+  <content>
+    <section id="id-439377580203">
+      <title>Experiment 2: Aldol Condensation Reaction</title>
+      <section id="id-19065641504">
+        <title>Objective</title>
+        <para id="id10643561">The purpose of this laboratory exercise is to introduce the concept of the Carbon-Carbon bond forming reaction and the basic mechanism of the aldol condensation reaction.</para>
+      </section>
+      <section id="id-490327917757">
+        <title>Background Information</title>
+        <para id="id10643576">A useful carbon-carbon bond-forming reaction is known as the Aldol Reaction or Aldol Condensation. It is an example of electrophilic substitution at the alpha carbon in enols or enolate anions. Traditionally, it is the acid- or base-catalyzed condensation of one carbonyl compounds with the enolate/enol of another, which may or may not be the same, to generate a β-hydroxy carbonyl compound—an aldol. It is reversible in nature. The reaction may occur between two molecules of aldehyde, two molecules of ketones or one molecule of aldehyde and a molecule of ketone. When two different carbonyl compounds react, it is known as mixed aldol/ Crossed aldol condensation.</para>
+        <para id="id10643628">Reactions in which a larger molecule is formed from smaller components with the elimination of a very small by-product such as water are termed Condensations. Hence the following examples are properly referred to as aldol condensations. The dehydration step of an aldol condensation is also reversible in the presence of acid and base catalysts. Consequently, on heating with aqueous solutions of strong acids or bases, many α, β-unsaturated carbonyl compounds fragment into smaller aldehyde or ketones, a process known as the retro-aldol reaction. Below, a few examples of aldol condensation reaction are: </para>
+        <figure id="id11109457">
+          <media id="idm148576" alt=""><image src="../../media/graphics1.png" mime-type="image/png" height="316" width="443"/></media>
+        </figure>
+        <para id="id11109481">The product has both a carbonyl and an alcohol group; since the chemistry was initially developed with aldehydes the name "Ald-ol" (aldehyde-alcohol) was coined and has been applied to the reaction that forms it. For aldol condensation, the presence of α-H (acidic hydrogen atom) atom is necessary. In the absence of α-H atom, it can undergo the Cannizaro reaction. Aldol condensation involves the following steps in the mechanism: </para>
+        <para id="id11109509">1. Addition phase: </para>
+        <para id="id11109513">(a) Formation of an enol or enolate anion.</para>
+        <para id="id11109517">(b) Nucleophilic addition</para>
+        <para id="id11109521">(c) Proton transfer</para>
+        <para id="id11109525">2. Dehydration phase (If strong base/acid or some heat is applied)</para>
+        <para id="id11109531">Using acetone as an example: </para>
+        <figure id="id11109538">
+          <media id="idm12336144" alt=""><image src="../../media/graphics2.png" mime-type="image/png" height="249" width="448"/></media>
+        </figure>
+        <para id="id11146201">Step 1: An acid-base reaction occurs first. Ethoxide functions as a base and removes the acidic -hydrogen giving the reactive enolate.</para>
+        <para id="id11146217">Step 2: The nucleophilic enolate attacks another molecule of acetone at the electrophilic carbonyl C in a <link url="http://library.tedankara.k12.tr/carey/ch17-3.html">nucleophilic addition type process</link> giving an intermediate alkoxide.</para>
+        <para id="id11146244">Step 3: An acid-base reaction. The alkoxide deprotonates a solvent molecule (here ethanol) creating hydroxide and the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>β</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{β} {}</m:annotation></m:semantics></m:math>hydroxyaldehydes or aldol product is formed.</para>
+        <para id="id11146305">There is little difference mechanistically between an acid or base catalyzed mechanism but examples of both have been given for completeness. </para>
+        <para id="id11146311">In next figure, the actual carbon-carbon bond formation has shown in different color for simplicity.</para>
+        <figure id="id11146320">
+          <media id="idm3659728" alt=""><image src="../../media/graphics3.png" mime-type="image/png" height="316" width="443"/></media>
+        </figure>
+        <para id="id10567053">Acid catalyzed reaction mechanism:</para>
+        <figure id="id10567060">
+          <media id="idm5116560" alt=""><image src="../../media/graphics4.png" mime-type="image/png" height="316" width="443"/></media>
+        </figure>
+        <para id="id10567084">Base catalyzed reaction mechanism:</para>
+        <figure id="id10567091">
+          <media id="idm3156848" alt=""><image src="../../media/graphics5-d430.png" mime-type="image/png" height="316" width="443"/></media>
+        </figure>
+        <para id="id10567115">From the mechanism it is clear that presence of electron withdrawing group in acceptor molecule facilitates the reaction and vice versa. </para>
+      </section>
+      <section id="id-661650843204">
+        <title>Some Important Facts:</title>
+        <para id="id10567129">1. The reaction involves an enolate reacting with another molecule of the aldehyde. </para>
+        <para id="id10567134">2. Remember enolates are good nucleophiles and carbonyl C is electrophiles. </para>
+        <para id="id10567140">3. The products of these reactions are 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>β</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{β} {}</m:annotation></m:semantics></m:math>hydroxyaldehydes or aldehyde-alcohols = aldols. </para>
+        <para id="id11260538">4. The simplest aldol reaction is the condensation of ethanal. </para>
+        <para id="id11260543">Question: Why isn't the simplest example of an Aldol the condensation of methanal? </para>
+        <para id="id11260557">Answer: These Aldol products can often undergo <link url="http://library.tedankara.k12.tr/carey/ch5-2.html">dehydration</link> (loss of water) to give conjugated systems (an <link url="http://library.tedankara.k12.tr/carey/ch5-4.html">elimination reaction</link>) </para>
+        <figure id="id11260603">
+          <media id="idm4102704" alt=""><image src="../../media/aldol-h2o.png" mime-type="image/png" height="145" width="450"/></media>
+        </figure>
+        <para id="id11260627">To recap, Aldol condensation depends mainly on two factors: </para>
+        <list list-type="enumerated" id="id11260632">
+          <item>Acidity of α-H atom (hydrogen atom present next to carbonyl center)</item>
+          <item>Reactivity of carbonyl compounds</item>
+        </list>
+        <para id="id11260648">Here is an example to explain the above facts:</para>
+        <figure id="id11260656"><media id="idm1897712" alt=""><image src="../../media/graphics6-1173.jpg" mime-type="image/jpeg" height="98" width="350"/></media>
+</figure>
+        <para id="id9308800">In methyl cyclohexanone two different types of acidic proton is present next to carbonyl center. Due to steric and electronic reasons, one proton is more acidic than the other; whereas benzaldehyde doesn’t have any acidic proton. This is an example of Crossed aldol condensation. Depending on the position of hydroxyl group you can get a mixture of diastereomeric products. The dehydration step of an aldol condensation is also reversible in the presence of acid and base catalysts. Consequently, on heating with aqueous solutions of strong acids or bases, many α, β-unsaturated carbonyl compounds fragment into smaller aldehyde or ketones, a process known as the retro-aldol reaction.</para>
+        <para id="id9308847">The condensation is usually pushed to completion by dehydration; in some contexts the dehydration may be assumed to be part of the aldol condensation itself.The base-induced elimination is normally not seen with alcohols other than with aldols. This reaction probably proceeds via formation of an enolate, followed by loss of water molecule; formation of the, ß-unsaturated ketone makes up for the poor leaving group ability of hydroxide. (Of course, with acid catalysis the dehydration follows the normal protonation/loss of water/loss of proton mechanism.) Either acid- or base-catalyzed dehydration is helped by increased temperature.</para>
+        <para id="id9308872">Several observations are necessary at this point. </para>
+        <para id="id9308877">1. All of the reactions shown above are reversible. You should be able, on your own to predict where each of the equilibria shown above should lie (is K &gt; 1 or is K &lt; 1?) 2. You should be able to predict how changes in structure will change the position of the equilibrium. (Examples: more or less bulky R groups in the ketone; ketones vs. aldehydes; electronic effects for electron-donating and electron-withdrawing groups.) 3. You should notice that the outcome of a mixture of carbonyl compounds depends on their structure: if there is no proton, no enolate can form and a cross-aldol condensation is possible. If both can form enolates, and both carbonyl groups are of similar reactivity, mixtures of products will result. </para>
+        <para id="id9308910">In this lab condensation between acetophenone and 4-nitrobenzaldehyde will take place. The reaction scheme as follows:</para>
+        <figure id="id9308920">
+          <media id="idm11926912" alt=""><image src="../../media/graphics7-50b0.jpg" mime-type="image/jpeg" height="150" width="450"/></media>
+        </figure>
+        <para id="id10643260">“Green Chemistry” is important from an environmental point of view. It requires fewer amounts of solvent and chemicals thought to be harmful to the environment. Though there are some possible drawbacks like (a) Low yield, (b) Slow reaction and (c) Increase in reaction cost, still we need to endeavor to keep our environment clean.</para>
+        <para id="id10643286">Exercise 1 Enter the letter of any compound that does not meet the structural requirements for the aldol condensation:</para>
+        <figure id="id10643302">
+          <media id="idm5992960" alt=""><image src="../../media/graphics8.png" mime-type="image/png" height="194" width="497"/></media>
+        </figure>
+        <para id="id10643326">Answer: C, F etc……. (Convince yourself)</para>
+        <para id="id10643332">Exercise 2 Write the letter of any 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>β</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{β} {}</m:annotation></m:semantics></m:math>-hydroxyaldehyde or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>β</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{β} {}</m:annotation></m:semantics></m:math>- hydroxyketone? </para>
+        <figure id="id10607975">
+          <media id="idm165072" alt=""><image src="../../media/graphics9.png" mime-type="image/png" height="185" width="497"/></media>
+        </figure>
+        <para id="id10607998">Answer: B, D etc…….. (Convince yourself)</para>
+        <para id="id10608004">Exercise 3 Each of the following compounds was prepared by an aldol condensation followed by dehydration. In each case, select the structure of the starting material from the list of choices in the box below.</para>
+        <figure id="id10608022">
+          <media id="idp3899472" alt=""><image src="../../media/graphics10-adb4.jpg" mime-type="image/jpeg" height="83" width="388"/></media>
+        </figure>
+        <figure id="id10608049">
+          <media id="idm3262032" alt=""><image src="../../media/graphics11-7e92.png" mime-type="image/png" height="172" width="408"/></media>
+        </figure>
+        <para id="id10608073">Answer: (a) FF (b) BB (c) __? __ (Convince yourself)</para>
+        <para id="id10608084">Exercise 4 Each of the following compounds was prepared by a crossed aldol condensation followed by dehydration. In each case, select the structures of the starting materials from the list of choices in the box above. Enter the letter of the compound that serves as the nucleophilic component followed by that of the electrophilic component. For example, the nucleophilic component used to prepare the first compound is A, while the electrophilic component is F.</para>
+        <figure id="id11115369">
+          <media id="idm4153824" alt=""><image src="../../media/graphics12-abfe.jpg" mime-type="image/jpeg" height="162" width="385"/></media>
+        </figure>
+        <para id="id11115393">Answers: (a) AF (b) </para>
+      </section>
+    </section>
+    <section id="id-322108601744">
+      <title>Pre-Lab 2: Aldol Condensation (Total 10 points)</title>
+      <para id="id11115413">Click <link resource="image9.jpg">here</link> for the Pre-Lab</para>
+      <para id="id11115436">Name(Print then sign): ___________________________________________________</para>
+      <para id="id11115442">Lab Day: ___________________Section: ________TA__________________________</para>
+      <para id="id11115447">This assignment must be completed individually and turned in to your TA at the beginning of lab. You will not be allowed to begin the lab until you have completed this assignment.</para>
+      <para id="id11115454">1) Is this reaction acid or base catalyzed? Why do you need to use 1.0 M HCl at the end of the experiment? (2 points)</para>
+      <para id="id11115466">2) What is the role of p-nitro group in 4-nitrobenzaldehyde during the ALDOL reaction? What do you think would happen to the yield of the product if p-methoxy group was present instead of p-nitro group? (2 points)</para>
+      <para id="id11115479">3) Benzaldehyde (PhCHO) cannot undergo “ALDOL” reaction by itself in presence of strong base (KOH)-Why? (1 point)</para>
+      <para id="id11115492">4) Write the major product of the following reactions, if there is no product specifies it. (1+2+2 = 5 points)</para>
+      <figure id="id10610227">
+        <media id="idm12556976" alt=""><image src="../../media/graphics13-3f82.jpg" mime-type="image/jpeg" height="102" width="332"/></media>
+      </figure>
+      <figure id="id10610254">
+        <media id="idm3479328" alt=""><image src="../../media/graphics14-0ec8.jpg" mime-type="image/jpeg" height="105" width="338"/></media>
+      </figure>
+      <figure id="id10610281">
+        <media id="idm2037168" alt=""><image src="../../media/graphics15-ccaa.jpg" mime-type="image/jpeg" height="110" width="342"/></media>
+      </figure>
+      <section id="id-776146399859">
+        <title>Grading</title>
+        <para id="id10610312">You will be assessed on:</para>
+        <list list-type="bulleted" id="id10610319">
+          <item>Completion of Pre lab questions. </item>
+          <item>Write-up in your Lab Notebook (see Appendix:1 <link url="file:///var/local/Chem%20215/Aldol/notebook.html">Lab Notebook Guidelines</link>) </item>
+          <item>Completion of Report questions.</item>
+          <item>TA evaluation of lab procedure.</item>
+        </list>
+      </section>
+      <section id="id-284499949739">
+        <title>Materials Required </title>
+        <para id="id10610373">Equipment Chemicals </para>
+        <list list-type="bulleted" id="id11078581">
+          <item>Water Bath 4-nitrobenzaldehyde</item>
+          <item>Stir bar Acetophenone</item>
+          <item>Round bottom flask (10mL) Sodium hydroxide</item>
+          <item>Funnel HCl (1.0 M)</item>
+          <item>Beaker Ethanol</item>
+          <item>Glass rod (for recrystalization) Filter paper</item>
+        </list>
+        <para id="id11078642">Safety </para>
+        <para id="id11078653">Wear gloves all the time, especially when working with NaOH and HCl. Keep safety glasses at all the times. </para>
+      </section>
+      <section id="id-110424847253">
+        <title>Experimental Procedure</title>
+        <para id="id11078666">You will be assigned either procedure A (traditional experiment procedures) or procedure B (green chemistry experiment procedures). Comparison of two methods: Give percent yield and melting point temperatures to the TA so that they can be written on the board and you can then collect everyones’data.</para>
+      </section>
+      <section id="id-51545866661">
+        <title>A. Traditional Experiment Procedure</title>
+        <para id="id11078700">Pre-heat your water bath to 60-70°C.</para>
+        <list list-type="enumerated" id="id11078706">
+          <item>Place a stir bar and 0.4 g of 4-nitrobenzaldehyde, 0.3 g of acetophenone and 0.10 g of sodium hydroxide in a 10 mL round bottom flask. NOTE: Acetophenone is a liquid with a density of 1.03 g/mL. Add 3.5 mL of 95% ethanol and heat the reaction mixture to 60-70°C while stirring for 20 minutes. Do not overheat your product otherwise you will polymerize your sample.</item>
+        </list>
+        <para id="id9308004">Add 5 mL of ice-cold 1.0 M HCl, stir, and cool in ice for 10 minutes. If a semi-solid forms, you may need to continue stirring the cold mixture for a few minutes. Isolate the product by filtration with a funnel, and wash with 1-2 mL of water.</para>
+        <list list-type="enumerated" id="id9308012">
+          <item>Scrape the crude product into a 30 mL beaker, add a magnetic stir bar, 1 mL of 95% ethanol, and heat with stirring at 70-80°C. Add additional ethanol, 10 drops at a time, until the solids have dissolved. Cool to room temperature, and scrape the inside of the flask with a glass rod to induce crystallization. Once crystallization has begun, cool in ice for ten minutes, isolate your product by filtration on a Hirsch funnel, and wash with 1 mL of ice cold ethanol. Dry for 5 minutes in the funnel, then scrape onto a filter paper and let dry for 10 minutes.</item>
+          <item>Obtain the mass, melting point and IR of your recrystallized product.</item>
+        </list>
+        <para id="id9308044">Caution</para>
+        <para id="id9308048">Sodium hydroxide is hygroscopic in nature. Cap the vial immediately after every use. Do not over heat in step 3, over heating may cause a black tar substance that is due to the decomposition of your product to form.</para>
+      </section>
+      <section id="id-255369392649">
+        <title>B. Green Chemistry Experimental Procedure </title>
+        <para id="id9308074">Pre-heat your water bath to 60-70°C.</para>
+        <list list-type="enumerated" id="id9308079">
+          <item>Place a stir bar and 0.4 g of 4-nitrobenzaldehyde and 0.3 g of acetophenone in a 10 mL round bottom flask. NOTE: Acetophenone is a liquid with a density of 1.03 g/mL. Weigh out 0.10 g of sodium hydroxide and crush into a powder with a spatula or the flat bottom of a 5 mL conical vial. Add the powdered NaOH to the 10 mL round bottom vial with the other reagents. Grind the "semi-solid" mixture with a glass stirring rod at 60-70°C until thoroughly mixed, and continue grinding for a further two minutes. Wait 5 minutes, and then grind again for two more minutes. Repeat for three more cycles of grinding and waiting.</item>
+          <item>After grinding the reaction mixture for a total of ten minutes, add 5 mL of ice-cold 1.0 M HCl, stir, and cool in ice for 10 minutes. If a semi-solid forms, you may need to continue stirring the cold mixture for a few more minutes. Isolate the product by filtration on a Hirsch funnel, and wash with 1-2 mL of water.</item>
+          <item>Scrape the crude product into a 30 mL beaker, add a magnetic stir bar, 1 mL of 95% ethanol, and heat with stirring at 70-80°C. Add additional ethanol, 10 drops at a time, until all the solids have dissolved. Cool to room temperature, and scrape the inside of the flask with a glass rod to induce crystallization. Once crystallization has begun, cool in ice for ten minutes, isolate your product by filtration on a Hirsch funnel, and wash with 1 mL of ice-cold ethanol. Dry for 5 minutes in the funnel, then scrape onto a watch glass and allow it to dry for 10 minutes.</item>
+          <item>Obtain the mass, melting point and IR of your recrystalized product.</item>
+          <item>One sample will be taken for NMR studies.</item>
+        </list>
+        <para id="id10520639">Caution</para>
+        <para id="id10520644">Carefully grind the NaOH. Do not add ethanol in the first step. Ethanol is required only during recrystalization.</para>
+      </section>
+    </section>
+    <section id="id-593913605117">
+      <title>Report Questions: </title>
+      <para id="id10520661">(Total 30 points)</para>
+      <para id="id10520665">Click <link resource="AldolReport07.doc">here</link> for the Report Form</para>
+      <para id="id10520687">Note: In preparing this report you are free to use references and consult with others. However, you may not copy from other students’ work (including your laboratory partner) or misrepresent your own data (see honor code).</para>
+      <para id="id10520700">Name(Print then sign): ___________________________________________________</para>
+      <para id="id10520705">Lab Day: ___________________Section: ________TA__________________________</para>
+      <para id="id10520711">1. Illustrate the complete chemical mechanism between 4-nitrobenzaldehyde, acetophenone and sodium hydroxide. (6 points)</para>
+      <para id="id10520724">2. Show your theoretical and percent yield calculations for the reaction. (4 points)</para>
+      <para id="id10520737">3. The melting point of your recrystallized product is: ______(2 points)</para>
+      <para id="id10520751">4. What significant IR stretches is seen and what functional groups do they correspond to? (4 points)</para>
+      <para id="id10520764">5. A NMR spectrum will be provided of the product. Assign each peak with a proton from your structure. Can you see any impurities? (6 points)</para>
+      <para id="id10520778">6. Which method (Traditional or Green chemistry) did you think was most successful and why? (3 points)</para>
+      <para id="id11006993">7. Write the major product of the following reactions: (2+1+2=5 points)</para>
+      <figure id="id11007006">
+        <media id="idp756928" alt=""><image src="../../media/graphics16-3cb8.jpg" mime-type="image/jpeg" height="105" width="440"/></media>
+      </figure>
+      <para id="id11007030"><media id="idm2575872" alt=""><image src="../../media/image9.jpg" mime-type="image/jpeg" height="98" width="350"/></media>
+</para>
+    </section>
+  </content>
+</document>

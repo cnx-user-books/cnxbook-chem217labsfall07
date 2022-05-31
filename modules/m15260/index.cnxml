@@ -1,0 +1,193 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Friedel-Crafts Reaction</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>48758e64-5f2a-4bbc-94c8-eaa73a90c30d</md:uuid>
+</metadata>
+  <content>
+    <section id="id-51551154775">
+      <title>Lab 4: Friedel-Crafts Reaction: Acetylation of Ferrocene</title>
+      <section id="id-995116744239">
+        <title>Objective</title>
+        <para id="id5336915">This experiment features on electrophilic aromatic substitution reaction. In this reaction an electrophile replaces a hydrogen atom in an aromatic compound forming a new carbon-carbon bond.</para>
+      </section>
+      <section id="id-173576902315">
+        <title>Background Information</title>
+        <para id="id5336932">As noted in earlier experiments, a unifying theme of synthetic organic chemistry is the construction of carbon-carbon bonds. Such bond-forming reactions allow the elaboration of simpler precursors into more complicated organic structures. Electrophilic aromatic substitution reactions feature an electrophile replacing a hydrogen atom in an aromatic compound and can form a new carbon-carbon bond if done with an electrophilic carbon species. Such reactions were discovered in 1877 by Charles Friedel and James Crafts and are collectively known as Friedel-Crafts reactions. These reactions may be used to introduce both alkyl ("Friedel-Crafts alkylation") and acyl groups ("Friedel-Crafts acylation").</para>
+      </section>
+      <section id="id-215444140011">
+        <title>Friedel-Crafts Acylation Reaction:</title>
+        <para id="id8281374">Friedel-Crafts acylation represents a powerful and effective way to introduce new carbon-carbon bonds into aromatic compounds. It has been extensively exploited as a synthetic tool since its discovery. However, the reaction is not without limitations. A strong Lewis acid, often aluminum chloride which is corrosive and gives off HCl upon contact with moist air, is required in greater than stoichiometric amounts leading to the generation of considerable quantities of acidic and aluminum contains waste. Common solvents for Friedel-Crafts acylation reactions include halogenated methanes (e.g., dichloromethane) or carbon disulfide, representing environmental and/or human health risks. In this experiment, you will use a more benign catalyst, phosphoric acid, to catalyze the Friedel-Crafts acylation reaction. No organic solvents are used, although one of the reactants, acetic anhydride, is used in excess and thus may serve the role as a solvent in this reaction. Unfortunately, these acylation conditions are not general - it is the relatively high reactivity of ferrocene compared to simpler aromatic substrates that allows the replacement of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>AlCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "AlCl" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> with phosphoric acid. Discovery of new Friedel-Crafts-like reaction chemistry applicable to simple benzene derivatives remains an area of ongoing investigation. </para>
+        <para id="id10429359">As the following mechanism indicates, Friedel-Crafts acylation involves the formation of an acylium ion as the active electrophilic species. The reactive acylium ion is generated from an acyl halide or anhydride by treatment with a Lewis acid. Aluminum chloride is commonly used for this purpose. Although 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>AlCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "AlCl" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> could potentially affect the catalysis of the Friedel-Crafts acylation reaction, the product, a ketone, is sufficiently basic enough to interact strongly with 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>AlCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "AlCl" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> such that more than one equivalent of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>AlCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "AlCl" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> is required. The 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>AlCl</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "AlCl" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math> is removed in the aqueous workup step by hydrolysis to HCl and aluminum hydroxide.</para>
+        <figure id="id9891728">
+          <media id="idp3239264" alt=""><image src="../../media/graphics1-3c56.jpg" mime-type="image/jpeg" height="234" width="550"/></media>
+        </figure>
+        <figure id="id10039527">
+          <media id="idm8790512" alt=""><image src="../../media/graphics2-9710.jpg" mime-type="image/jpeg" height="210" width="576"/></media>
+        </figure>
+        <para id="id10039551">The Friedel-Crafts acylation reaction</para>
+      </section>
+      <section id="id-357852765596">
+        <title>Some Important Points:</title>
+        <list list-type="bulleted" id="id10039563">
+          <item>Acyl groups - carbonyl attached to an H or an alkyl group.</item>
+        </list>
+        <figure id="id8373372">
+          <media id="idm1476160" alt=""><image src="../../media/graphics3-1b25.jpg" mime-type="image/jpeg" height="153" width="412"/></media>
+        </figure>
+        <list list-type="bulleted" id="id8373396">
+          <item>Reaction of an aromatic compound with an acyl halide and a Lewis Acid</item>
+        </list>
+        <figure id="id10071326">
+          <media id="idp300160" alt=""><image src="../../media/graphics4-1798.jpg" mime-type="image/jpeg" height="140" width="482"/></media>
+        </figure>
+        <list list-type="bulleted" id="id10071350">
+          <item>The electrophile is an acylium ion.</item>
+        </list>
+        <figure id="id8196518">
+          <media id="idm8020128" alt=""><image src="../../media/graphics5-ad74.jpg" mime-type="image/jpeg" height="255" width="452"/></media>
+        </figure>
+        <list list-type="bulleted" id="id8196542">
+          <item>The para product generally predominates in the acylation of substituted rings.</item>
+        </list>
+        <figure id="id8196555">
+          <media id="idm8850448" alt=""><image src="../../media/graphics6-8c3f.jpg" mime-type="image/jpeg" height="205" width="462"/></media>
+        </figure>
+        <para id="id7282203">- Unlike the Friedel-Crafts alkylation, the acylation reaction does not suffer from</para>
+        <para id="id7282219">rearrangement of the electrophile nor is the product susceptible to further reaction.</para>
+        <para id="id7282225">- The Freidel Crafts acylation reaction can be used to synthesize alkyl benzenes</para>
+        <para id="id9213131">indirectly.</para>
+        <figure id="id9213139">
+          <media id="idp6005104" alt=""><image src="../../media/graphics7-8ad3.jpg" mime-type="image/jpeg" height="131" width="600"/></media>
+        </figure>
+        <section id="id-801856787273">
+          <title>Aromaticity of Organic Compounds:</title>
+          <para id="id9213169">Although many aromatic compounds are based on the prototypical benzene ring system, many other aromatic compounds are known. In general, aromaticity results from a cyclic, planar, fully-conjugated array of atoms with a total of 4n+2 (n = integer) π electrons. Thus neutral compounds such as pyrrole and furan, as well as charged species such as tropylium, cyclopentadienyl and cyclopropenium ions, all represent aromatic compounds. </para>
+          <para id="id8657257"><figure id="id8657260"><media id="idp146480" alt=""><image src="../../media/graphics8-877b.jpg" mime-type="image/jpeg" height="165" width="600"/></media></figure>In this experiment, rather than using a simple benzene derivative as a reactant, you will explore the Friedel-Crafts acylation of a cyclopentadienyl ring contained in an organometallic compound (i.e. a compound containing one or more bonds between carbon and a transition metal). The substrate, ferrocene, contains two cyclopentadienyl rings which form a "sandwich" with the central iron atom. Although the presence of the metal atom confers some unusual properties on ferrocene, the cyclopentadienyl rings undergo many reactions typical of aromatic compounds. In particular, ferrocene efficiently undergoes Friedel-Crafts acylation and this is the reaction you will investigate.</para>
+          <figure id="id8510405">
+            <media id="idm1151904" alt=""><image src="../../media/graphics9-6669.jpg" mime-type="image/jpeg" height="174" width="582"/></media>
+          </figure>
+          <para id="id8510429">Friedel-Crafts acylation of ferrocene</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-393301201949">
+      <title>Pre-Lab 4: Friedel-Crafts Reaction</title>
+      <para id="id9761712">(Total 10 points)</para>
+      <para id="id9761724">Click <link url="http://PrelabFC07.doc/">here</link> for the Pre-Lab</para>
+      <para id="id7635583">Name(Print then sign): ___________________________________________________</para>
+      <para id="id7635589">Lab Day: ___________________Section: ________TA__________________________</para>
+      <para id="id7635594">This assignment must be completed individually and turned in to your TA at the beginning of lab. You will not be allowed to begin the lab until you have completed this assignment.</para>
+      <para id="id7635601">1. Classify each of the following species as anti-aromatic, aromatic, or nonaromatic.</para>
+      <para id="id7635612">Support your answer. (3 points)</para>
+      <figure id="id10164820">
+        <media id="idm923088" alt=""><image src="../../media/graphics10-8eb2.jpg" mime-type="image/jpeg" height="108" width="265"/></media>
+      </figure>
+      <para id="id10164844">2. Show the mechanism for the following reaction. Be sure to include all intermediates. (5 points)</para>
+      <figure id="id10164862">
+        <media id="idm1825424" alt=""><image src="../../media/graphics11-774f.jpg" mime-type="image/jpeg" height="179" width="495"/></media>
+      </figure>
+      <section id="id-763320833095">
+        <title>3. Predict the products from the following reactions. (2 points)</title>
+        <figure id="id9575382">
+          <media id="idp413056" alt=""><image src="../../media/graphics12-83ee.jpg" mime-type="image/jpeg" height="88" width="288"/></media>
+        </figure>
+        <figure id="id8055007">
+          <media id="idm7301184" alt=""><image src="../../media/graphics13-d2bb.jpg" mime-type="image/jpeg" height="93" width="306"/></media>
+        </figure>
+      </section>
+      <section id="id-294770088562">
+        <title>Grading</title>
+        <para id="id7219299">You will be assessed on:</para>
+        <list list-type="bulleted" id="id7219305">
+          <item>Completion of pre lab questions. </item>
+          <item>Write-up in your lab notebook </item>
+          <item>Completion of report questions.</item>
+          <item>TA evaluation of lab procedure.</item>
+        </list>
+      </section>
+      <section id="id-261227522557">
+        <title>Materials</title>
+        <section id="id-267050534426">
+          <title>Equipment Chemicals </title>
+          <list list-type="bulleted" id="id9828564">
+            <item>Water bath Ferrocene</item>
+            <item>Stir bar Acetic anhydride</item>
+            <item>Round bottom flask (10mL) 85% phosphoric acid</item>
+            <item>Hirsch funnel 3 M aq NaOH </item>
+            <item>Beakers (50, 400 mL) 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NaHCO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>3</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "NaHCO" rSub { size 8{3} } } {}</m:annotation></m:semantics></m:math></item>
+            <item>TLC plates Hexanes</item>
+            <item>Filter paper Toluene, absolute EtOH</item>
+          </list>
+          <para id="id10086710">Safety</para>
+          <para id="id10086714">Phosphoric acid and acetic anhydride are corrosive and acetic anhydride is also a lachrymator. Avoid contact or undue exposure to vapor. Wear gloves all the time, especially when you are working with corrosive reagents. Keep safety glasses on all the time. Dispose of organic substances in their proper containers.</para>
+        </section>
+      </section>
+      <section id="id-731475852389">
+        <title>Experimental Procedure</title>
+        <para id="id10086741">1. Place 0.25 g. of ferrocene in a 10 mL round-bottom flask containing a magnetic stir bar. Prepare a hot water bath by heating the water to nearly the boiling point while preparing the following reaction mixture.</para>
+        <para id="id10086748">2. In a fume hood, add 1.0 mL of acetic anhydride and 0.15 mL of 85% phosphoric acid to the flask. The reaction mixture should heat up and darken in color. Swirl the flask, heating occasionally in a hot water bath if necessary, until all the ferrocene dissolves.</para>
+        <para id="id10137536">3. Attach a reflux condenser then heat the reaction mixture with stirring in the hot water bath prepared in step 1. Heat the mixture for 10 minutes during which time a purple color may develop.</para>
+      </section>
+      <section id="id-426491387457">
+        <title>Workup and purification:</title>
+        <para id="id10137554">4. Pour the reaction mixture onto 2 or 3 cubes of ice in a 400 mL beaker, then rinse the flask with two 5 mL portions of ice water. (A black residue may remain in the flask.) Stir the orange-brown mixture with a glass rod for a few minutes. Any insoluble black material present will be removed in the following steps.</para>
+        <para id="id10137564">5. Add 6.0 mL of 3 M aqueous NaOH solution, then carefully add solid sodium bicarbonate in small portions until the remaining acid has been neutralized (about 2-3 grams). Use great care to avoid excessive foaming during bicarbonate addition. This step can be done with magnetic stirring, but make sure to use a stirring plate that is not hot. Stir well and crush any lumps to afford a dark-brown suspension.</para>
+        <para id="id10137575">6. Allow the mixture to stand for 20 minutes, and then collect the crude product by vacuum filtration. Continue to pull air through the product for a few minutes to dry it. Finish the drying process by pressing the solid product between two sheets of filter paper or paper towels. Save some of this crude product for TLC analysis.</para>
+        <para id="id10250450">7. Transfer the solid and a stir bar to a 50 mL beaker and add 10 mL of hexanes. Boil for 5 minutes with stirring, and then decant the dark-orange solution into another Erlenmeyer flask leaving behind a black gummy substance. If you boil off all the liquid, try again with another 10 mL of hexane and lower heat.</para>
+        <para id="id10250459">8. To the hot solution, add a spatula-full of decolorizing carbon (If you use too much, you will reduce your yield of carbon). Heat with swirling, and then perform a hot filtration to remove the decolorizing carbon.</para>
+        <para id="id10250467">9. Set the flask aside to cool slowly. Red-brown needles of acetylferrocene should begin to form. Once the flask has reached room temperature, cool it in ice. Collect the crystalline product by vacuum filtration and washing with a small quantity of cold hexane, then dry by continuing to pull air through the product for a few minutes. If you add to much cold hexane here, you will lose your product.</para>
+        <section id="id-882807777234">
+          <title>Characterization:</title>
+          <para id="id9193240">10. Record the yield and melting point range for your recrystallized acetylferrocene.</para>
+          <para id="id9193245">11. Analyze your crude and recrystallized products by TLC. Separately dissolve very small amounts of pure ferrocene, the crude product, and the recrystallized acetylferrocene in a few drops of toluene. Spot the solutions on silica gel plates and develop with 30:1 toluene/absolute ethanol. Visualization is simple as each compound is brightly colored.</para>
+          <para id="id9193255">Safety</para>
+          <para id="id9193260">Wear safety goggles and gloves all the time.</para>
+        </section>
+        <section id="id-320865035165">
+          <title>Waste Disposal</title>
+          <para id="id9193273">Organic compounds must be disposed in the proper container.</para>
+        </section>
+        <section id="id-233336883044">
+          <title>Approximate Lab Time 2 – 2 ½ hours</title>
+          <para id="id6778685">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+      </section>
+    </section>
+    <section id="id-80317541038">
+      <title>Report 4: Friedel- Crafts</title>
+      <para id="id6778705">(Total 30 points)</para>
+      <para id="id6778717">(Click <link url="http://ReportFC07.doc/">here</link> for the Report Form</para>
+      <para id="id9208356">Note: In preparing this report you are free to use references and consult with others. However, you may not copy from other students’ work or misrepresent your own data (see honor code).</para>
+      <para id="id9208368">Name(Print then sign): ___________________________________________________</para>
+      <para id="id9208373">Lab Day: ___________________Section: ________TA__________________________</para>
+      <para id="id9208379">1. Draw the mechanism for the reaction of ferrocene, acetic anhydride, and phosphoric acid. (6 points)</para>
+      <para id="id9208391">2. Show your theoretical and percent yield calculations for the reaction. (3 points)</para>
+      <para id="id6758129"> </para>
+      <para id="id6758134"> </para>
+      <para id="id6758138">3. The melting point of your re-crystallized acetylferrocene is: ---- (2 points)</para>
+      <para id="id6758152">4. Draw the TLC plates and show your 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>f</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R rSub { size 8{f} } } {}</m:annotation></m:semantics></m:math> calculations (4 points)</para>
+      <para id="id10141586">5. Classify each of the following species as anti-aromatic, aromatic, or nonaromatic.</para>
+      <para id="id8028327">Support your answer. (4 points)</para>
+      <figure id="id8028342">
+        <media id="idm2163184" alt=""><image src="../../media/graphics14-57ef.jpg" mime-type="image/jpeg" height="124" width="428"/></media>
+      </figure>
+      <para id="id8028366">6. Ordinarily the barrier to rotation about a carbon-carbon double bond is quite high (40</para>
+      <para id="id6717669">kcal/mol), but the compound below was observed to have a rotational barrier of only about 20 kcal/mol. Explain this result. (3 points)</para>
+      <figure id="id6717686">
+        <media id="idp4290992" alt=""><image src="../../media/graphics15-4a81.jpg" mime-type="image/jpeg" height="93" width="158"/></media>
+      </figure>
+      <para id="id10256408">7. Propose a mechanism for the following reaction. (8 points)</para>
+      <figure id="id10256424">
+        <media id="idp9819552" alt=""><image src="../../media/graphics16-626c.jpg" mime-type="image/jpeg" height="141" width="536"/></media>
+      </figure>
+    </section>
+  </content>
+</document>

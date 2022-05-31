@@ -1,0 +1,268 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Grignard Reaction</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>46fc2c85-5c6a-4d1c-bbc8-fbec2dd0146c</md:uuid>
+</metadata>
+  <content>
+    <section id="id-808759197098">
+      <title>Lab 3: Grignard Reaction</title>
+      <section id="id-866067823678">
+        <title>Objective</title>
+        <para id="id9016882">The purpose of this laboratory exercise is to perform a classic method for the synthesis of secondary alcohols: the addition of a Grignard reagent to an aldehyde (other than formaldehyde).</para>
+      </section>
+      <section id="id-753062150331">
+        <title>Background Information</title>
+        <para id="id9016924">After the most remarkable discovery by Victor Grignard in 1900, organometallic (An organic compound containing a metal atom directly attached to a carbon) compounds are very useful in organic synthesis. This discovery changed the course of organic chemistry and earned him the Nobel Prize in 1912. We now refer to such compounds as Grignard Reagents. </para>
+        <para id="id11883535">The Grignard reaction is one of the characteristic reactions of carbonyl compounds. It is especially useful as a means of forming new carbon-carbon bonds, something that we haven't seen much of until now. In this type of reaction a C-M bond is present (C=carbon and M=metal) which is covalent in nature. The metal is usually magnesium but lithiummore reactive and is also used. The more polar the C-M bond is, the more will be its reactivity. The reactivity order is known from electrochemical series:</para>
+        <para id="id11883553">M= Li&gt; K&gt; Ca&gt; Na&gt; Mg&gt; Al&gt; Zn&gt; Fe&gt; Sn etc</para>
+        <para id="id11883570">Traditionally alkyl magnesium halides are known as Grignard reagent (R-Mg-X).</para>
+        <figure id="id11326591">
+          <media id="idp3962656" alt=""><image src="../../media/graphics1-c882.jpg" mime-type="image/jpeg" height="169" width="588"/></media>
+        </figure>
+        <para id="id11326615">All kinds of alkyl halides react (Iodides are more reactive than bromides which in turn are more reactive than chlorides) and amazingly, even bromobenzene and other aryl bromides and iodides react easily with magnesium. This is particularly surprising since the aromatic halogen is so unreactive. For example, it is inert to refluxing with aqueous sodium hydroxide at temperatures in excess of 200˚C. The unshared pair of electrons on ether oxygen complexing with the Mg is believed to contribute to the stability of the reagent. Note: Aryl halides (ArX) and vinyl halides that are inert to nucleophilic substitution are reactive with this Grignard reaction.</para>
+        <section id="id-390242714048">
+          <title>Preparation and Mechanism of Grignard reagent:</title>
+          <para id="id11881950">The mechanism of Grignard reagent (GR) is not clear till today, but it is believed that the reaction is taking place on the metal surface. Since GR does not react with aprotic solvents (e.g. ether, THF etc), these solvents are widely used. The mechanism of formation of GR as follows: it goes via one electron transfer, followed by rapid combination of organic group with the metal center. From the mechanistic point of view, carbon-bromine bond should be broken prior to the reaction with magnesium. </para>
+          <figure id="id11854834">
+            <media id="idp7012464" alt=""><image src="../../media/graphics2-bc4e.jpg" mime-type="image/jpeg" height="176" width="488"/></media>
+          </figure>
+          <para id="id11854857">Solutions of some Grignard reagents such as methylmagnesium bromide, ethylmagnesium bromide, and phenylmagnesiumbromides are commercially available. Here is an example of Grignard reaction which explains the effect of solvent.</para>
+          <figure id="id4351917">
+            <media id="idm168368" alt=""><image src="../../media/grigt.png" mime-type="image/png" height="130" width="505"/></media>
+          </figure>
+          <para id="id4351941">The Grignard reagent is made from the direct reaction of magnesium with an alkyl halide.</para>
+          <figure id="id4351950">
+            <media id="idp2551280" alt=""><image src="../../media/graphics3-d877.jpg" mime-type="image/jpeg" height="241" width="472"/></media>
+          </figure>
+          <para id="id11930247">The key to the function of the Grignard reagent is the reversal of the normal polarity of bonds to carbon (This type of reversal of polarity in carbon center is known as Umpolung). Because magnesium is more electropositive than carbon the carbon acquires a 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>δ</m:mi><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{δ - {}} {}</m:annotation></m:semantics></m:math> charge whereas carbon, when it has a charge at all, usually has 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>δ</m:mi><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{δ+{}} {}</m:annotation></m:semantics></m:math> charge from bonding to halogens, oxygen, and nitrogen.</para>
+          <figure id="id9603947">
+            <media id="idp1405728" alt=""><image src="../../media/umpolung.png" mime-type="image/png" height="18" width="100"/></media>
+          </figure>
+          <para id="id12563098">This 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>δ</m:mi><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{δ - {}} {}</m:annotation></m:semantics></m:math>carbon consequently has significant nucleophilic character. The Grignard reagent reacts well as a nucleophile with the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>δ</m:mi><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{δ+{}} {}</m:annotation></m:semantics></m:math>-carbon of the carbonyl group as a target. The C=O π-bond is broken and the carbonyl becomes an alcohol. In the process, a new carbon-carbon bond is formed between the Grignard reagent and the carbonyl carbon - now the alcohol carbon.</para>
+          <figure id="id12506238">
+            <media id="idp3801904" alt=""><image src="../../media/grig_mech.png" mime-type="image/png" height="167" width="382"/></media>
+          </figure>
+          <para id="id12013355">The intermediate alkoxymagnesium salt is neutralized by acid in the work-up to produce the alcohol product. Before we go on to look at more Grignard reactions with carbonyl groups, here is a problem for you to try.</para>
+          <list list-type="enumerated" id="id12013363">
+            <item>Identify the product (A-E) (5 points)</item>
+          </list>
+          <figure id="id12013379">
+            <media id="idp1494592" alt=""><image src="../../media/graphics4-e604.jpg" mime-type="image/jpeg" height="187" width="600"/></media>
+          </figure>
+          <para id="id11819629">Answer: </para>
+          <figure id="id11819636">
+            <media id="idp3647536" alt=""><image src="../../media/graphics5-ea89.jpg" mime-type="image/jpeg" height="119" width="448"/></media>
+          </figure>
+          <para id="id11425659">Addition of GR to carbonyls: </para>
+          <para id="id11425663">GR adds to a carbonyl compounds to generate alcohols. A more modern interpretation extends the scope of the reaction to include the addition of Grignard reagents to a wide variety of electrophilic substrates: </para>
+          <figure id="id11425678">
+            <media id="idm5469280" alt=""><image src="../../media/grig_rxns.png" mime-type="image/png" height="254" width="430"/></media>
+          </figure>
+          <figure id="id11088322">
+            <media id="idp3224528" alt=""><image src="../../media/3794411.png" mime-type="image/png" height="56" width="419"/></media>
+          </figure>
+          <para id="id11088346">Depending upon the amount of GR used and the substrate, it can give different types of products after working up the reaction. Here is an example:</para>
+          <figure id="id11088356">
+            <media id="idp116496" alt=""><image src="../../media/graphics6-e11d.jpg" mime-type="image/jpeg" height="141" width="282"/></media>
+          </figure>
+          <para id="id11975757">Addition of GR to α, β unsaturated carbonyls: </para>
+          <para id="id11975763">GR adds to carbonyl center mainly in two fashions. Alkyl lithium halides add only in 1, 2-fashion because R-Li is a more reactive organometallic compound than others, so it prefers to add to most HARD carbonyl carbon center (since it is more electrophilic in nature). On the other hand, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:mtext>CuLi</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R rSub { size 8{2} }  ital "CuLi"} {}</m:annotation></m:semantics></m:math>or 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>R</m:mi><m:mo stretchy="false">−</m:mo><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>MgX</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">/</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Cu</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R -  ital "MgX"/ ital "Cu" rSup { size 8{2+{}} } } {}</m:annotation></m:semantics></m:math> adds only in 1,4- fashion, because C-4 is soft towards electrophilicity and soft cuprate reagents prefer to add only to soft centers according to HSAB (Hard Soft Acid Base ) theory. Traditional GR (alkyl magnesium halide) is intermediate in its’ reactivity, so a mixture of 1, 2- and 1, 4- addition product is obtained. Here is an example of a GR adding to a α, β unsaturated carbonyl compound:</para>
+          <figure id="id7937299">
+            <media id="idm6974064" alt=""><image src="../../media/graphics7-a152.jpg" mime-type="image/jpeg" height="401" width="536"/></media>
+          </figure>
+          <para id="id11663703">Most alcohols can be produced by a Grignard reaction. In deciding how to do this carry out the reaction, think about the Grignard reaction in reverse: if your target alcohol had been the result of a Grignard reaction, what would the carbonyl compound have to be? What would the Grignard reagent have to be?</para>
+          <para id="id11663712">Consider the scheme below for the synthesis of 1-phenyl-1-butanol via a Grignard reaction. Two different ways to synthesize this compound are shown. Can you think of a third?</para>
+          <figure id="id11663723">
+            <media id="idp3810848" alt=""><image src="../../media/gscheme.png" mime-type="image/png" height="310" width="461"/></media>
+          </figure>
+        </section>
+        <section id="id-429623698063">
+          <title>Important Facts:</title>
+          <para id="id12254347">Grignard reagent (RMgX) is a very polar reagent and a very strong Lewis base and therefore will be easily protonated by water, which acts as a strong acid when in contact with a Grignard reagent. The reagent’s reaction with water produces a gelatinous metal hydroxide. Since it reacts rapidly with the acidic hydrogen atom, the reaction must be carried out under dry conditions since even a small amount of moisture can destroy the reagent. The reactivity of Grignard reagent depends on mainly two factors:</para>
+          <para id="id12254371">1. Types of metal center (Li&gt; K&gt; Mg etc)</para>
+          <para id="id12254380">2. Types of halides present (I&gt; Br&gt; Cl) and</para>
+          <para id="id10973572">3. Types of solvent used.</para>
+          <para id="id10973581">In presence of different functional groups, the order of reactivity of GR is as follows:</para>
+          <figure id="id10973590">
+            <media id="idm7100016" alt=""><image src="../../media/graphics8-7247.jpg" mime-type="image/jpeg" height="74" width="426"/></media>
+          </figure>
+        </section>
+        <section id="id-648936041919">
+          <title>Our Experiment:</title>
+          <para id="id11250238">In this experiment, the addition of a nucleophilic Grignard reagent (1-methylbutylmagnesium bromide), to the electrophilic carbonyl carbon of an aldehyde (propanal) is performed. </para>
+          <figure id="id11250254">
+            <media id="idp6420352" alt=""><image src="../../media/graphics9-3712.jpg" mime-type="image/jpeg" height="101" width="600"/></media>
+          </figure>
+          <para id="id11819730">The product obtained is a 2° alcohol, 4-methyl-3-heptanol. A mixture of diastereomeric products is formed as the product contains two chiral centers. It is possible to vary the structure of both the Grignard reagent and the aldehyde; a wide variety of 2° alcohols is prepared by this route. Primary alcohols result when formaldehyde is used as the aldehyde. Secondary alcohols may also be obtained with these reagents when ethyl formate, an ester, acts as the electrophile. This latter reaction, however, requires two molar equivalents of the Grignard reagent. The mechanism for the reaction is as follows.</para>
+          <figure id="id11819756">
+            <media id="idp2790784" alt=""><image src="../../media/graphics10-d5d8.jpg" mime-type="image/jpeg" height="224" width="436"/></media>
+          </figure>
+          <para id="id11194442">PreLab Questions (Total 10 points)</para>
+          <para id="id11194454">Click <link url="http://AldolPrelab07.doc/">here</link> for the Pre-Lab</para>
+          <para id="id7234117">Name(Print then sign): ___________________________________________________</para>
+          <para id="id7234123">Lab Day: ___________________Section: ________TA__________________________</para>
+          <para id="id7234128">This assignment must be completed individually and turned in to your TA at the beginning of lab. You will not be allowed to begin the lab until you have completed this assignment.</para>
+          <para id="id7234136">1. A small crystal of iodine is used during the preparation of ‘Grignard reagent’-Why? (1 point)</para>
+          <para id="id7234150">2. Which solvent can we use in the preparation of GR except ether? (1 point)</para>
+          <para id="id11358340">3. Why is the addition of the GR to propanal solution done over the period of 30 minutes? (2 points)</para>
+          <para id="id11358354">4. Write the major product of the following reactions: (4 points)</para>
+          <para id="id11358369">
+            <media id="idp7335968" alt=""><image src="../../media/graphics11-6011.jpg" mime-type="image/jpeg" height="143" width="422"/></media>
+            <media id="idm6958048" alt=""><image src="../../media/graphics12-de2d.jpg" mime-type="image/jpeg" height="90" width="328"/></media>
+          </para>
+          <para id="id12526773">5. How will you synthesize the following molecule? (2 points)</para>
+          <figure id="id12083199">
+            <media id="idp4290832" alt=""><image src="../../media/graphics13-e4eb.jpg" mime-type="image/jpeg" height="110" width="112"/></media>
+          </figure>
+          <para id="id12083223">from tertBu-Br, dry ether, 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>D</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mi>O</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{D rSub { size 8{2} } O} {}</m:annotation></m:semantics></m:math> and Mg(0).</para>
+        </section>
+      </section>
+      <section id="id-932075484739">
+        <title>Grading</title>
+        <para id="id9598156">You will be assessed on: </para>
+        <list list-type="bulleted" id="id9598170">
+          <item>Completion of Pre lab questions. </item>
+          <item>Write-up in your Lab Notebook (see <link url="file:///../Chem%20215/Aldol/notebook.html">Lab Notebook Guidelines</link>) </item>
+          <item>Analysis of product by Infrared and NMR Spectroscopy</item>
+          <item>Completion of Post lab questions.</item>
+        </list>
+      </section>
+      <section id="id-983266562967">
+        <title>Materials Required</title>
+        <para id="id11444438">Equipment Chemicals </para>
+        <list list-type="bulleted" id="id11444447">
+          <item>Water Bath 1. 2-bromopentane </item>
+          <item>Stir bar 2. Mg metal, Iodine crystals</item>
+          <item>Round bottom flask (10mL) 3. Propanal</item>
+          <item>Hirsch funnel 4. Diethyl ether</item>
+          <item>Beaker 5. 3M HCl, NaOH</item>
+          <item>Glass rod (for recrystalisation) 6. Sodium sulfate (anhydrous)</item>
+        </list>
+        <para id="id11454356">Safety</para>
+        <para id="id11454360">Wear gloves all the time, especially working with NaOH, HCl. Keep safety glasses on all the time. </para>
+      </section>
+      <section id="id-76806431166">
+        <title>Experimental Procedure</title>
+        <para id="id11454379">Part 1: Preparation of Grignard reagent</para>
+        <para id="id11876312">Part 2: Grignard reaction</para>
+        <para id="id11876324">Part 3: Isolation of product</para>
+        <para id="id11876340">Part 4: Characterization of product</para>
+        <para id="id11876352">NOTE: All the glassware used in the preparation of the Grignard reagent should be cleaned and dried in an oven at 110°C for at least 30 minutes, so you will need to plan on attending 15 minutes early on that day, dry your glassware and then attend the pre-lab lecture. (Use your glassware when it reaches room temperature, pressure builds up inside the apparatus) You will dry your glassware in the following way.  Show up to the lab 15 minutes early and dry your glassware in the oven.  The TA in charge of the lecture will then start his/her lecture on schedule.  Place all your glassware that you will need into a beaker with your name on it.  Place this in one of the ovens in the lab.  Do not put any non-glass parts in the oven. </para>
+        <para id="id12013421">NOTE: Check septum you are going to use for Grignard reaction. There should be no "open" holes. If septum has an obvious hole, it should be replaced with a new one.</para>
+        <section id="id-610041789906">
+          <title>Part 1: </title>
+          <para id="id11667670">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id-866507870584">
+          <title>Preparation of 1-Methylbutyl Magnesium Bromide: </title>
+          <para id="id11667689">1. Prepare a 5.0 mL conical vial containing a magnetic spin vane and equipped with a condenser. Weigh and place 75 mg (approximately 3-4 pellets) of magnesium in the vial, and then add a small crystal of iodine (Do not add excess iodine), followed by 500 µL of anhydrous ether. </para>
+          <para id="id11957098">NOTE: Metal magnesium you will be provided with has a coil shape and has been cut into small pieces. This material should be handled with forceps only. Four to five small pieces of Mg weigh about 75 mg.</para>
+          <para id="id11957117">NOTE: Plastic syringes tend to get stuck when filled with ethyl ether. Be ready to push a bit harder on a syringe plunger when adding liquid to the reaction mixture.</para>
+          <para id="id12101888">2. Prepare a solution of 520 µL of 2-bromopentane in 600 µL of anhydrous diethyl ether in a dry 5 mL conical vial. Use a syringe to deliver each solution. TA will do that.</para>
+          <para id="id12101920">3. After the assembly has cooled to room temperature, then draw the 2-bromopentane solution into a 1.0-mL syringe and then insert the syringe needle through the rubber septum on the top of the condenser. (Do not heat the closed system, it may explode!!!!) </para>
+          <para id="id11709048">4. While stirring the heterogeneous mixture, slowly add 6-8 drops of the 2-bromopentane ether solution to initiate the formation of the Grignard reagent. The evolution of tiny bubbles from the surface of the magnesium is evidence of a reaction. </para>
+          <para id="id11709069"> </para>
+          <para id="id11584445">5. When the reaction has started, slowly add the remainder of the 2-bromopentane-ether solution drop wise over a 3 to 5-min period. Warm the reactants slightly. Upon completion of this addition, draw the rinse in the capped vial into the syringe and add it through the septum in a single portion to the reaction vial. Stir the resulting solution for 15 min.</para>
+        </section>
+        <section id="id-794045958368">
+          <title>Caution</title>
+          <para id="id11584482">Do not overheat. Overheating will cause loss of ether solvent. (The b.p. of ether is 34.6 °C.) Small fragments of magnesium may remain at the end of the addition of the alkyl halide. </para>
+          <para id="id12264760">6. Cool the gray-colored solution of Grignard reagent to room temperature. </para>
+        </section>
+        <section id="id-251220898131">
+          <title>Preparation of Propanal (Propionaldehyde) </title>
+          <para id="id12264786">1. Prepare a solution of the aldehyde by weighing 100 µL of propanal into a tared, oven-dried, 3 mL conical vial followed by the addition of 200 µL of anhydrous diethyl ether. Cap the vial after solution is ready. The propanal is the limiting reagent and therefore an accurate weight should be recorded for the yield calculations. TA</para>
+        </section>
+        <section id="id-339779315589">
+          <title>Part 2: Grignard reaction</title>
+          <para id="id10777201">1. Now add the propanal solution carefully, with stirring, to the Grignard reagent over a period of about 30 sec at such a rate as to keep the ether solvent at a steady reflux. </para>
+          <para id="id10777215">2. Rinse the vial that contained the propanal solution with 100 µL of anhydrous diethyl ether and add to the Grignard reagent. This step insures that all the propanal is added to the Grignard reagent. </para>
+          <para id="id12456227">3. Stir the reaction mixture for 5 min and then allow it to cool to room temperature. Remove the conical vial and take off the cap. It is recommended that the vial be placed in a beaker to prevent tipping and loss of product. </para>
+        </section>
+        <section id="id-81644729752">
+          <title>Part 3: Isolation of Product</title>
+          <para id="id12456259">1. Hydrolyze the magnesium alkoxide salt by addition of 2.0 mL of water. Stir the resulting mixture for 5 min. A two-phase (ether-water) reaction mixture develops as the magnesium salt is hydrolyzed. Remove any unreacted magnesium.</para>
+        </section>
+        <section id="id-78795684312">
+          <title>Caution</title>
+          <para id="id10899974">The addition of water causes the evolution of heat. An ice bath should be handy to cool the solution if it begins to reflux rapidly. </para>
+          <para id="id10899983">2. Now add 4-5 drops of 3 M HCl. Remove the vial, cap it, and stir it at room temperature for 5 min. Remove the vial from the stir plate and test the aqueous layer with litmus paper. The solution should be slightly acidic. Too much or too little aqueous HCl will cause problems in the subsequent workup procedure. Be careful in this step. NOTE: The water layer is the bottom layer. You will need to withdraw a few drops of the aqueous layer with a Pasteur pipette and drip it onto the litmus paper.</para>
+          <para id="id11569362">3. Remove the magnetic spin vane with forceps and set it aside to be rinsed with an ether wash. Cap the vial tightly, shake it, vent carefully, and allow the layers to separate. </para>
+          <para id="id11887348">4. Using a Pasteur pipette, transfer the aqueous (lower) layer to a clean 5.0 mL vial (see picture below). Save the ether layer since it contains the crude reaction product. </para>
+          <para id="id11887376">                                     <media id="idp8893984" alt=""><image src="../../media/graphics14-e11d.jpg" mime-type="image/jpeg" height="324" width="267"/></media>      </para>
+          <para id="id11594687">5. Now wash the aqueous layer that you have previously transferred to a 5.0-mL vial, with three 1.0-mL portions of diethyl ether:</para>
+          <para id="id11594694">6. Hold the magnetic spin vane with clean forceps and rinse it with the first portion of ether as it is added to the vial. Upon addition of each portion of ether (using a calibrated Pasteur pipette, see picture below), cap the vial, shake it (or use a Vortex mixer), vent carefully, and allow the layers to separate. With the aid of a Pasteur pipette, remove each subsequent ether (i.e. top) layer and combine it with the ether solution retained above. After the final extraction, do not forget to save the aqueous (lower) layer until you have isolated and characterized the final product. </para>
+          <figure id="id12343736">
+            <media id="idp2134336" alt=""><image src="../../media/graphics15-950e.jpg" mime-type="image/jpeg" height="182" width="118"/></media>
+          </figure>
+          <para id="id12343760">NOTE: Pipette calibration: 1.0ml (diagram shows a previous version where we only used 0.5 mL. NOW we use 1.0 mL.) of ether which will give approximately 1.0 in height of solvent in the pipette above its "shoulder"</para>
+          <para id="id12343775">7. Extract the combined ether fractions with 2.0-mL of cold water to remove any acidic material. </para>
+          <para id="id8529598">8. Dry the ether solution by transferring it, using a Pasteur pipet, to a Pasteur filter pipet filled with 0.5g of anhydrous sodium sulfate. The elute is collected in a test tube. In the hood, remove the ether solvent from the elute by simply, putting the solution on an evaporation dish and allow the ether to evaporate.</para>
+          <para id="id8529616">Alternate Method of Removing Solvent: 1. Attach a Pasteur pipette to an air-line, turn the air on (gently) and place pipette in test tube to evaporate the ether (Ask TA for demonstration). 2. Gently warming the elute in a hot water bath to concentrate the solution to a weight less than 90 mg.</para>
+        </section>
+        <section id="id-99376201634">
+          <title>Part 4: Purification and Characterization</title>
+          <para id="id9016835">
+<!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+          </para>
+        </section>
+        <section id="id-745200893946">
+          <title>1. The product, 4-methyl-3-heptanol, will be used as is with no further purification. Once all the solvent is gone, mass the product and the test tube (the mass of which has already been recorded). Assuming no impurities, calculate the yield (remember, one of the reagents was taken in excess though). </title>
+          <para id="id9016869">2. Take this sample and dissolve in it in a small amount of methylene chloride (add 2 mL first then add 1 mL each time if you really need it). Prepare two TLC plates. On each plate spot both of the starting materials as well as the product mixture and standard provided by TA (i.e. four spots on each plate). Run one TLC plate in 100% Methylene Chloride, the other in 1:9 ethyl acetate: hexane. Record both plates under UV light and with the p-Anisaldehyde stain. </para>
+          <para id="id12465359">3. Calculate the 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>f</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R rSub { size 8{f} } } {}</m:annotation></m:semantics></m:math> of all of the compounds for both plates. Draw TLC plates in the notebook. </para>
+          <para id="id11213968">4. One sample will be taken for NMR and GC-MS studies.</para>
+        </section>
+        <section id="id-471699755364">
+          <title>Waste Disposal</title>
+          <para id="id11213981">Syringes and needles are to be disposed separately. Needles will go into the Sharps waste basket and syringes in the waste basket. Pipettes should not go into the Sharps waste basket. Organic and inorganic waste should be disposed in their proper containers.Approximate Lab time: 2-2.30 hours</para>
+          <para id="id11988816">Report Questions (Total 30 points)</para>
+          <para id="id11988828">(Click <link url="http://AldolReport07.doc/">here</link> for the Report Form</para>
+          <para id="id11930131">Note: In preparing this report you are free to use references and consult with others. However, you may not copy from other students’ work or misrepresent your own data (see honor code).</para>
+          <para id="id11930143">Name(Print then sign): ___________________________________________________</para>
+          <para id="id11930148">Lab Day: ___________________Section: ________TA__________________________</para>
+          <para id="id11930154">1. Explain why Grignard reagents cannot be prepared from an organic halide that also contains a hydroxyl (-OH), a carboxyl (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CO</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mi>H</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ -  ital "CO" rSub { size 8{2} } H} {}</m:annotation></m:semantics></m:math>), a thiol (-SH), or an amino (
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>NH</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ -  ital "NH" rSub { size 8{2} } } {}</m:annotation></m:semantics></m:math>) group. (2 points)</para>
+          <para id="id11587966">2. Why does the 2-bromopentane not appear under UV light for TLC? (2 points)</para>
+          <para id="id11320871">3. Draw and show your 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msub><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>f</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{R rSub { size 8{f} } } {}</m:annotation></m:semantics></m:math> calculations for each TLC run. Which solvent was better? (3 points)</para>
+          <para id="id11071005">4. Show your theoretical and percent yield calculations. (4 points)</para>
+          <para id="id11071015"> </para>
+          <para id="id11071020"> </para>
+          <para id="id11071025"> </para>
+          <para id="id12238461">5. Draw the structure of your product and assign a proton to each peak in your NMR spectrum. Try and determine, if any, the impurities are in the sample. (4 points)</para>
+          <para id="id12238473">6. An NMR and GC-MS of the product are provided. What information can you obtain from the GC-MS? (5 points)</para>
+          <para id="id12238487">7. Write the major product of the following reactions: (10 points)</para>
+          <figure id="id12238501">
+            <media id="idp3145968" alt=""><image src="../../media/graphics16-539e.jpg" mime-type="image/jpeg" height="107" width="332"/></media>
+          </figure>
+          <figure id="id9541187">
+            <media id="idp8747296" alt=""><image src="../../media/graphics17.jpg" mime-type="image/jpeg" height="124" width="302"/></media>
+          </figure>
+          <figure id="id12017527">
+            <media id="idp7190240" alt=""><image src="../../media/graphics18.jpg" mime-type="image/jpeg" height="102" width="313"/></media>
+          </figure>
+          <figure id="id12017555">
+            <media id="idp6261744" alt=""><image src="../../media/graphics19-cebb.jpg" mime-type="image/jpeg" height="98" width="316"/></media>
+          </figure>
+          <figure id="id9598671">
+            <media id="idp3450912" alt=""><image src="../../media/graphics20-5cc9.jpg" mime-type="image/jpeg" height="117" width="368"/></media>
+          </figure>
+          <para id="id9598695">8. Identify the compounds (A-F). (Extra credit 6 points)</para>
+          <figure id="id9598706">
+            <media id="idp7926208" alt=""><image src="../../media/graphics21-9f75.jpg" mime-type="image/jpeg" height="295" width="599"/></media>
+          </figure>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

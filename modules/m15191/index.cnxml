@@ -1,0 +1,266 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Diels-Alder and Melting Point</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>a6c56ea9-a5eb-4337-b6c0-b8ce9c6b76e9</md:uuid>
+</metadata>
+  <content>
+    <section id="id-377965842519">
+      <title>Experiment 1: Diels-Alder and Melting Point</title>
+      <para id="id8066423">The purpose of this lab is to introduce the concept of the melting point of an organic compound as a first step in chemical identification of that compound and assessing its purity. In addition, you will synthesize a cyclic compound by employing the famous Diels-Alder Reaction.</para>
+      <section id="id-252900055106">
+        <title>Background Information</title>
+        <section id="id-529884317036">
+          <title>Part 1: Melting point</title>
+          <para id="id8066463">All solids display a characteristic melting point. With a pure substance, a melting point is the quickest and most accessible method for an organic chemist to confirm the identity of a compound (although in all fairness, NMR is the method of choice today because of its’ ability to provide evidence of identity with concomitant additional information.).</para>
+          <para id="id8066479">Melting points can also be used to assess purity. You are all familiar with the concept of freezing point depression from Freshman Chemistry. Impurities in the solution prevent the ordering necessary to form a crystal lattice. This factor explains why salt/water solutions will not freeze until the temperature is as low as -20 °C. The concepts involved with melting points are similar. In a perfect crystal, with no impurities, the melting point will occur at one temperature. However when impurities are introduced into the lattice, there is no longer a continuous crystal structure. Instead the solid is made up of different regions, some with more crystal imperfections then others. Not surprisingly the melting point will not be as sharp. This will also cause melting to begin earlier then expected. These impurities can even be water – Houston with high humidity! </para>
+          <para id="id8066504">It is a combination of these concepts that will be used in this lab. For the first part of the lab you will examine how adding an impurity will affect the melting point of the compound. In the second part of the lab you will determine the identity of an unknown by applying your knowledge of mixing properties that you gained in the first part of this experiment.</para>
+          <para id="id8066514">It will quickly become apparent that the melting points you measure will not match the melting points found in literature. You are encouraged, and it is to your advantage, to hypothesize why this is the case and to run your hypothesize by your TA to see if you are on the right track.</para>
+          <para id="id8066523">Find melting point data: For Part I you will be preparing mixtures of two compounds. Before lab you should look up the melting points of these two compounds. Possible sources can be Aldrich (Fondren location: TP202 .A42 2000-2001 REFERENCE-TRADE) or Acros chemical catalogs or online at <link url="http://www.aldrich.com/">http://www.aldrich.com</link> or <link url="http://www.acros.be/">http://www.acros.be</link> . These compounds are cinnamic acid and urea.</para>
+        </section>
+        <section id="id-11662694419">
+          <title>Part 2: Diels-Alder Reaction</title>
+          <para id="id8066580">The Diels-Alder reaction is essentially a cycloaddition reaction (Cycloaddition reaction is one example of a special class of reactions called pericyclic reaction. Other examples of pericyclic reactions are electrocyclic reactions, sigmatropic reactions) in which an alkene adds to a 1,3-diene to form a 6-membered ring. The reaction is synthetically very useful, due to the formation of cyclic products. This is another Nobel-prize-winning reaction (1950) that provides flexibility to synthetic organic chemists. In this reaction a conjugated diene (this is one with alternating double and single bonds) is heated with a dieneophile - a compound with a multiple bond with an attached electron-withdrawing group (EWG). </para>
+          <figure id="id8066621">
+            <media id="idp2053328" alt=""><image src="../../media/graphics1-0e63.jpg" mime-type="image/jpeg" height="162" width="442"/></media>
+          </figure>
+        </section>
+        <section id="id-00429066029721">
+          <title>Mechanism</title>
+          <para id="id8066653">The Diels-Alder reaction mechanism still remains the topic of much debate because of the uncertainty as to whether the mechanism is stepwise, concerted, or free-radical. For the time being arrow-pushing concerted mechanism is preferred on order to better understand the beauty of this reaction.</para>
+          <figure id="id8066677">
+            <media id="idm8298384" alt=""><image src="../../media/graphics2-03bf.jpg" mime-type="image/jpeg" height="169" width="445"/></media>
+          </figure>
+        </section>
+        <section id="id-153253935005">
+          <title>Some Important Facts</title>
+          <para id="id8066709">1. The Diels-Alder reaction (a 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>4π</m:mtext><m:mo stretchy="false">+</m:mo><m:mtext>2π</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"4π"+"2π"} {}</m:annotation></m:semantics></m:math> cycloaddition) is a very important synthetic method for the preparation of cyclohexanes, mainly because the stereochemistries of the products are so well controlled.</para>
+          <para id="id8066777">2. Normal Diels-Alder reaction is favoured by electron withdrawing groups (EWG) on the electrophilic dienophile and by electron donating groups on the nucleophilic diene.</para>
+          <para id="id8066818">Some common examples of dienes and dienophiles:</para>
+          <para id="id8066823">Dienes</para>
+          <figure id="id8066831">
+            <media id="idp622576" alt=""><image src="../../media/graphics3-6a57.jpg" mime-type="image/jpeg" height="117" width="570"/></media>
+          </figure>
+          <para id="id8066855">Dienophiles</para>
+          <figure id="id8066862">
+            <media id="idm806928" alt=""><image src="../../media/graphics4-0ea4.jpg" mime-type="image/jpeg" height="205" width="570"/></media>
+          </figure>
+          <para id="id8066886">3. The diene must be cisoid (this refers to the conformation about the single bond). Example: trans-butene does not undergo DA reaction where cis-butene does.</para>
+          <para id="id8066914">4. The reaction is usually thermodynamically favored due to the conversion of 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mtext>2 π</m:mtext><m:mo stretchy="false">−</m:mo><m:mtext>bonds</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"2 π" - "bonds"} {}</m:annotation></m:semantics></m:math>into 2 new stronger 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>σ</m:mi><m:mo stretchy="false">−</m:mo><m:mtext>bonds</m:mtext></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{σ - "bonds"} {}</m:annotation></m:semantics></m:math>.</para>
+          <para id="id8067027">5. The Diels-Alder reaction is <link url="http://www.chem.ucalgary.ca/courses/351/Carey5th/Ch06/ch6-0-1.html#stereoselectivity">stereospecific</link> with respect to both the diene and the dienophile.</para>
+          <para id="id8067052">6. Under the reaction conditions, the product can be broken down to its starting materials known as retro Diels-Alder reaction.</para>
+          <para id="id8067067">7. To predict the relative rates of reaction of dienes, use these rules.</para>
+          <para id="id8067076">(a) Only conjugated dienes react as dienes in Diels-Alder processes. Isolated and</para>
+          <para id="id8067086">cumulated dienes may react as dienophiles, but they cannot react as dienes.</para>
+          <para id="id8067091">(b) Dienes in the s-trans conformation do not react in Diels-Alder reactions. Acyclic</para>
+          <para id="id8067107">dienes may rotate around a single bond to become s-cis, but some dienes are locked in the</para>
+          <para id="id8067117">s-trans conformation in cyclic structures and cannot react.</para>
+          <para id="id8067127">(c) Dienes containing electron-releasing groups (usually alkyl groups) react faster,</para>
+          <para id="id8067137">especially with dienophiles that contain electron-withdrawing groups (almost always groups that contain electronegative atoms). The opposite combination also gives relatively fast reactions, but the starting materials are unusual.</para>
+        </section>
+        <section id="id-216073801338">
+          <title>Stereochemistry of D.A. Reaction</title>
+          <para id="id8067153">1. Regioselectivity: In absence of solvent and catalytic effect, regioselectivity depends on presence of partial positive or negative character on the terminal carbon centers of dienes or dienophile.</para>
+          <figure id="id8067168">
+            <media id="idm9018064" alt=""><image src="../../media/graphics5-4f1e.png" mime-type="image/png" height="124" width="545"/></media>
+          </figure>
+          <para id="id8067191">In this case para will be major product. (Convince yourself of this before you continue)</para>
+          <para id="id8067197">2. Stereoselectivity: Addition of two molecules is <link url="http://www.chem.ucalgary.ca/courses/351/Carey5th/Ch06/ch6-0-1.html#stereoselectivity">syn</link> on both components (bonds form from same species at the same time). This is shown by the examples below:</para>
+          <para id="id8067220">cis-dienophile gives cis-substituents in the product. </para>
+          <figure id="id8067237">
+            <media id="idp4593920" alt=""><image src="../../media/graphics6-bec6.jpg" mime-type="image/jpeg" height="114" width="438"/></media>
+          </figure>
+          <para id="id8067261">trans-dienophile gives trans-substituents in the product.</para>
+          <figure id="id8067278">
+            <media id="idm3048064" alt=""><image src="../../media/graphics7-39bb.jpg" mime-type="image/jpeg" height="145" width="438"/></media>
+          </figure>
+          <para id="id8067302">If both substituents on the diene are Z, then both end up on the same face of the product.</para>
+          <figure id="id8067311">
+            <media id="idp6971776" alt=""><image src="../../media/graphics8-c285.jpg" mime-type="image/jpeg" height="174" width="442"/></media>
+          </figure>
+          <para id="id8067335">If substituents on the diene are E and Z, then they end up on opposite faces of the product.</para>
+          <figure id="id8067345">
+            <media id="idp4814976" alt=""><image src="../../media/graphics9-8526.jpg" mime-type="image/jpeg" height="174" width="440"/></media>
+          </figure>
+          <para id="id8067369">A study of the HOMO and LUMO orbitals for the reactions would probably prove very useful in determining (a) The preference for the endo product (b) Substituent effects on the rate of reaction (c) Substituent effects on the regiochemistry of the reaction. Nucleophilic (diene) characterized by the HOMO and Electrophilic (dienophile) characterized by the LUMO.</para>
+          <figure id="id8067397">
+            <media id="idp4281200" alt=""><image src="../../media/graphics10.png" mime-type="image/png" height="331" width="410"/></media>
+          </figure>
+          <para id="id8067421">In this lab we will be studying the reaction of cyclopentadiene with maleic anhydride. From previous knowledge of Diels Alder reactions you should be able to predict the stereochemistry of the products. Cyclic dienes can give stereoisomeric products depending on whether the dienophile lies under or away from the diene in the transition state.  The endo product is usually the major product (due to kinetic control).</para>
+          <figure id="id8067450">
+            <media id="idm8994224" alt=""><image src="../../media/graphics11-d4d6.png" mime-type="image/png" height="125" width="516"/></media>
+          </figure>
+          <para id="id8067474">
+            <figure id="id8067477">
+              <media id="idp2098528" alt=""><image src="../../media/graphics12.png" mime-type="image/png" height="118" width="243"/></media>
+            </figure>
+            <figure id="id8067502">
+              <media id="idm1345408" alt=""><image src="../../media/graphics13.png" mime-type="image/png" height="119" width="295"/></media>
+            </figure>
+          </para>
+          <para id="id8067526">In Figure 12, the diene and dienophile are aligned directly over each other 
+which yields the endo product(dienophile under or in = endo).
+In Figure 13, the diene and dienophile are staggered with respect with to each 
+other which yields the exo product(dienophile exposed or out = exo).</para>
+          <figure id="id8067581">
+            <media id="idp10942944" alt=""><image src="../../media/graphics14.png" mime-type="image/png" height="392" width="536"/></media>
+          </figure>
+          <para id="id8067604">Pre-Lab 1: Diels-Alder and Melting Point (Total 10 points)</para>
+          <para id="id8067619"><link resource="PreLabDAMP07.doc">Here</link> for the Pre-Lab</para>
+          <para id="id8067639">Name(Print then sign): ___________________________________________________</para>
+          <para id="id8067644">Lab Day: ___________________Section: ________TA__________________________</para>
+          <para id="id8067650">This assignment must be completed individually and turned in to your TA at the beginning of lab. Usually, you will not be allowed to begin the lab until you have completed this assignment – allowance made for the first week.</para>
+          <para id="id8067665">1. The reaction, as you will notice, occurs very rapidly. State two characteristics of the starting materials that make them ideal coupling partners for this reaction (i.e. what are good characteristics for reactants in Diels Alder reactions). (2 points)</para>
+          <para id="id8067683">2. Write the major product of the following reactions, if there is no product specify why. (4 points)</para>
+          <para id="id8067694">
+            <media id="idp3929488" alt=""><image src="../../media/graphics15-4c78.jpg" mime-type="image/jpeg" height="126" width="356"/></media>
+            <media id="idp2114352" alt=""><image src="../../media/graphics16-d6af.jpg" mime-type="image/jpeg" height="124" width="340"/></media>
+          </para>
+          <para id="id8067751">3. a) Which of these dienes gives the FASTEST reaction with maleic anhydride, why? (2 points)</para>
+          <figure id="id8067764">
+            <media id="idm66064" alt=""><image src="../../media/graphics17.png" mime-type="image/png" height="60" width="599"/></media>
+          </figure>
+          <para id="id8067789">(b) Which of these dienophiles gives the FASTEST reaction with cyclopentadiene and why? (2 points)</para>
+          <figure id="id8067802">
+            <media id="idp5100944" alt=""><image src="../../media/graphics18.png" mime-type="image/png" height="100" width="600"/></media>
+          </figure>
+        </section>
+        <section id="id-756977075667">
+          <title>Grading</title>
+          <para id="id8067834">You will be assessed on: </para>
+          <list list-type="bulleted" id="id8067841">
+            <item>Pre-Lab assignment completed prior to lab, TA will check </item>
+            <item>Melting points of urea, trans-cinnamic acid, of their mixture in different ratios and of the Diels-Alder reaction product </item>
+            <item>Graph of melting point versus composition of the mixture urea/trans-cinnamic acid </item>
+            <item>Your explanation as to why your measured melting point ranges do not match those in literature </item>
+            <item>IR spectrum of product </item>
+            <item>Write-up in your Lab Notebook </item>
+            <item>Answers to post-lab questions </item>
+            <item>TA evaluation of lab procedure.Material Required</item>
+          </list>
+          <para id="id8067894">Equipment Chemicals </para>
+          <list list-type="bulleted" id="id8067930">
+            <item>Capillary tube Cinnamic acid, urea</item>
+            <item>Test tubes Diphenyl acetic acid</item>
+            <item>Round bottom flask (5 mL) Dicyclopentadiene </item>
+            <item>Beaker Maleic anhydride, Ethyl acetate</item>
+            <item>Glass rod (for recrystalisation) Petroleum ether </item>
+            <item>Filter paper</item>
+          </list>
+          <para id="id8067999">SAFETY</para>
+          <para id="id8068003">Wear gloves all the time, especially when you are working with NaOH, HCl. Keep safety glasses on all the time.</para>
+        </section>
+      </section>
+      <section id="id-0663203277716">
+        <title>Experimental Procedure for Melting Point</title>
+        <section id="id-818496576636">
+          <title>Part I. The Effect of Purity on Melting Point</title>
+          <para id="id8068033">In this section you will take two compounds (cinnamic acid and urea) and create mixtures of them to determine what effect this will produce, as well as the extent of this effect depending on the composition of the sample.</para>
+          <para id="id8068041">1.Prepare a capillary tube containing urea as well as one containing cinnamic acid. Take the melting point of each and compare it to the "Houston" values (which your TA will have). Repeat if the values are not correct.</para>
+        </section>
+      </section>
+      <section id="id-999519167403">
+        <title>2. Once the two pure melting points have been determined find a partner and together prepare 3 samples: one of 1:9 urea : cinnamic acid, one of 1:1 urea : cinnamic acid, and one of 9:1 urea : cinnamic acid. Take the melting point of each of these mixtures. Plot the graph of melting point vs. the composition of the sample. Note: You can prepare a large batch of sample and share the materials among yourselves (Take 10mg urea and 90 mg cinnamic acid for 1st sample and mix it together, ratio should be same). </title>
+        <section id="id-0747480110914">
+          <title>Part II. Determination of an Unknown Substance</title>
+          <para id="id8068098">In this portion of the lab you cannot determine the identity of an unknown by comparing its melting point with the melting point of the three possible compounds. Mixing characteristics will be used instead to determine the identity.</para>
+          <para id="id8068106">1. Prepare three capillary tubes in the following manner. Take a piece of weighing paper and mix a small amount of the unknown with a small amount of the sample of diphenylacetic acid (1:1). Place this in a capillary tube. Then on a new piece of weighing paper, weigh a small amount of the unknown and mix it with a small amount of adipic acid. Place this in a capillary tube. </para>
+          <para id="id8068119">2.Place these three capillary tubes in the melting point apparatus and record in detail what occurs to each tube and at what temperature. Using this knowledge determine the identity of the unknown.</para>
+        </section>
+      </section>
+      <section id="id-781232073887">
+        <title>Experimental Procedure for Diels-Alder</title>
+        <para id="id8068138">Cyclopentadiene dimerizes at ambient conditions. Because of this cyclopentadiene is purchased as the stable dimer dicyclopentadiene. In order to be of any use, the dimer must be cracked and distilled. Due to time constraints you will be given the cyclopentadiene that has been prepared by your TA. </para>
+        <section id="id-513253437392">
+          <title>Part III. Diels Alder Reaction</title>
+          <para id="id8068161">1.       Dissolve 0.20 g of powdered maleic anhydride in 1 mL of ethyl acetate in a test tube and then add 1 mL of petroleum ether. This combination of solvents is used because the product is too soluble in pure ethyl acetate and not soluble enough in pure petroleum ether. </para>
+          <para id="id8068183">2.To the solution of maleic anhydride add 200 mL (0.160 g) of cyclopentadiene and mix the reactants. Mixing can be accomplished by tapping the bottom of the test tube back and forth with your finger. </para>
+          <para id="id8068205">Safety: Be careful when injecting the cyclopentadiene into the test tube and make sure the test tube points away from you. </para>
+          <para id="id8068212">3.Crystals should begin to form, if no crystals begin to form scratch the inside of the tube with a pipette to initiate growth. The scratch marks on the inside of the tube often form the nuclei on which crystallization starts. </para>
+          <para id="id8068225">4.Should crystallization occur too rapidly at room temperature the crystals will be very small. If so, save a seed crystal, heat the mixture until the product dissolves, seed it and allow it to cool slowly to room temperature. You will be rewarded with large plate-like crystals. </para>
+          <para id="id8068240">5.Remove the solvent from the crystals with a pipette forced to the bottom of the tube. Wash the crystals with one portion of cold petroleum ether then again remove the solvent. Scrape the product onto a piece of filter paper, allow the crystals to dry in air, determine their weight, and calculate the yield of the product. </para>
+          <para id="id8068259">6.Take the melting point of the product. </para>
+          <para id="id8068266">7.Take and analyze an IR and NMR spectrum of your compound. </para>
+        </section>
+        <section id="id-7500520917">
+          <title> Waste Disposal </title>
+          <para id="id8068282">All capillary tubes are to be disposed of in the GLASS CONTAINER and NOT in the trash can!! Dispose organic substances in their proper containers.</para>
+        </section>
+        <section id="id-515708810222">
+          <title>Approximate lab time 2-2.5 hours</title>
+          <para id="id8068308">Report1: Diels-Alder and Melting Point(Total 30 points)</para>
+          <para id="id8068321"><link resource="DAMPReport07.doc">Here</link> for the Report</para>
+          <para id="id8068341">Note: In preparing this report you are free to use references and consult with others. However, you may not copy from other students’ work or misrepresent your own data (see honor code).</para>
+          <para id="id8068352">Name(Print then sign): ___________________________________________________</para>
+          <para id="id8068358">Lab Day: ___________________Section: ________TA__________________________</para>
+          <para id="id8068363">1. Draw the reaction and mechanism of maleic anhydride and cyclopentadiene. (4 points)</para>
+          <para id="id8069681"> </para>
+          <para id="id8069686"> </para>
+          <para id="id8069690"> </para>
+          <para id="id8069694">2. Show theoretical and percent yield calculations of the reaction between maleic anhydride and cyclopentadiene. (2 points)</para>
+          <para id="id8069704"> </para>
+          <para id="id8069708"> </para>
+          <para id="id8069712">3. What are the important IR frequencies and the functional group they correspond to? (2 points)</para>
+          <para id="id8069722"> </para>
+          <para id="id8069726"/>
+          <para id="id8069730">4. Analyze the NMR spectrum of the product. Draw the structure and assign each peak to the correct proton on the NMR spectrum. Are there any impurities? If yes, what are they? (4 points)</para>
+          <para id="id8069742">5. Write the major product of the following reactions with proper stereochemistry if required. (8 points)</para>
+          <figure id="id8069759">
+            <media id="idp5039424" alt=""><image src="../../media/graphics19-3978.jpg" mime-type="image/jpeg" height="100" width="280"/></media>
+          </figure>
+          <figure id="id8069784">
+            <media id="idp4428448" alt=""><image src="../../media/graphics20-564a.jpg" mime-type="image/jpeg" height="95" width="316"/></media>
+          </figure>
+          <figure id="id8069809">
+            <media id="idp1411104" alt=""><image src="../../media/graphics21-45bd.jpg" mime-type="image/jpeg" height="129" width="270"/></media>
+          </figure>
+          <figure id="id8069834">
+            <media id="idp2949136" alt=""><image src="../../media/graphics22.jpg" mime-type="image/jpeg" height="102" width="280"/></media>
+          </figure>
+        </section>
+        <section id="id-696035942683">
+          <title>Part 2: Melting Point (Total 10 points)</title>
+          <para id="id8069869">1. Fill in the blanks: (5 points) </para>
+          <table id="id8069885" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Melting Points of:</entry>
+                  <entry>Temperature in °C</entry>
+                </row>
+                <row>
+                  <entry>Urea</entry>
+                  <entry>_________________________</entry>
+                </row>
+                <row>
+                  <entry>Cinnamic acid</entry>
+                  <entry>_________________________</entry>
+                </row>
+                <row>
+                  <entry>1:9 mixture</entry>
+                  <entry>_________________________</entry>
+                </row>
+                <row>
+                  <entry>1:1 mixture</entry>
+                  <entry>_________________________</entry>
+                </row>
+                <row>
+                  <entry>9:1 mixture</entry>
+                  <entry>_________________________</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id8070026">2. Draw a Plot of melting point versus composition of the mixture. (2 points)</para>
+          <para id="id8070041">  </para>
+          <para id="id8070045">3. Your explanation as to why your measured melting points do not match those in literature. (1 point)</para>
+          <para id="id8070055">4. Identity the unknown (Part II) product. (1 point)</para>
+          <para id="id8070064">5. Melting point of the DA product is: ____ (1 point)</para>
+        </section>
+      </section>
+    </section>
+  </content>
+</document>
